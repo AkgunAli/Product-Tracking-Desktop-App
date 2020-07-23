@@ -7,7 +7,7 @@ Product-Tracking-Desktop-App
 </p>
 
 <p align="center">
-  <img width="800" height="600" src="1.JPG">
+  <img width="700" height="500" src="1.JPG">
 </p>
 <p align="center">
   <img width="350" height="600" src="2.JPG">
