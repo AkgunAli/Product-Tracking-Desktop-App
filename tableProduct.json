@@ -1,0 +1,50 @@
+[
+    {
+        "barcode": "22222",
+        "id": 2,
+        "name": "fsdfds",
+        "number": "342432",
+        "price": "324324",
+        "vat": "234324"
+    },
+    {
+        "barcode": "2343242",
+        "id": 3,
+        "name": "fsdfsdfs",
+        "number": "43243242",
+        "price": "2342342",
+        "vat": "23432432"
+    },
+    {
+        "barcode": "76",
+        "id": 4,
+        "name": "AliAkgün",
+        "number": "76",
+        "price": "100000000000000000000",
+        "vat": "0"
+    },
+    {
+        "barcode": "2342343223",
+        "id": 5,
+        "name": "fsdfdfsd",
+        "number": "1232321",
+        "price": "23423432",
+        "vat": "23432423"
+    },
+    {
+        "barcode": "438243824823",
+        "id": 6,
+        "name": "Mushap",
+        "number": "767676",
+        "price": "423843828",
+        "vat": "248324238"
+    },
+    {
+        "barcode": "08502202020",
+        "id": 7,
+        "name": "bilgisayar",
+        "number": "10000",
+        "price": "3500",
+        "vat": "18"
+    }
+]
